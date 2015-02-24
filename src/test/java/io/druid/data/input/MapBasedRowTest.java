@@ -28,7 +28,7 @@ import com.google.common.collect.ImmutableMap;
 public class MapBasedRowTest
 {
   @Test
-  public void testgetLongMetricFromString()
+  public void testGetLongMetricFromString()
   {
     MapBasedRow row = new MapBasedRow(
         new DateTime(),
